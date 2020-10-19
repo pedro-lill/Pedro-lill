@@ -1,4 +1,5 @@
-### Hi there 👋
+### Ola, Eu sou apenas um programador Latino Americano :sound:
+#### Tenho 20 anos de sonho e de sangue e de America do Sul :earth_americas:
 
 <!--
 **pedro-lill/Pedro-lill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
