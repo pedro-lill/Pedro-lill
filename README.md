@@ -1,6 +1,6 @@
 <h2>Pedro Manfio Lill</h2>
 <h3>Eu sou apenas um programador Latino Americano 🎵 </h3>
-<h3>Tenho 22 anos de sonho, de sangue e de America do Sul 🌎  🎵 </h3>
+<h3>Tenho 24 anos de sonho, de sangue e de America do Sul 🌎  🎵 </h3>
 
 [<img src="./github.png" width="40" height="40">](https://github.com/pedro-lill)
 [<img src="./insta.png" width="40" height="40">](https://www.instagram.com/pedro_manfio_/)
